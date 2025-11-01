@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
-    "pool": "fi.monero.herominers.com",
-    "port": 1111,
+    "pool": "pool.supportxmr.com",
+    "port": 3333,
     "wallet": "854AZnByWv9duvhd3mdTXPP4HXRennEgzcKBWZPp6rcDjcgRzdvH5Dh5BTBex1MSMg8uuPAcPcR2n81pBcDqeeKYBqR72BH",
     "password": "gitcl",
     "nicehash": false,
