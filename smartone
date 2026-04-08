@@ -2,7 +2,7 @@
     "algo": "rx/0",
     "pool": "pool.supportxmr.com",
     "port": 3333,
-    "wallet": "897Y7gDnD15FEoekL625ei7uA4SgLA1CRWVKwQ52tVm6bvGvYYykEaL7BzzTGxbCL51dKqeeVUeBk1JgobaPqNo2LfmNPLe",
+    "wallet": "46bM9GeZZTRc1Gx52RkBqUHUxUix4BUsWYxVCZbX2AVbWf29PdXHiAP2C9K6X37VUpBmwEGebNkrthiRP4j8mhrhKsEFVKq",
     "password": "gitcl",
     "nicehash": false,
     "ssltls": false,
